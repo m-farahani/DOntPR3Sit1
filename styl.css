@@ -8,12 +8,20 @@
 
 body{
     direction: rtl;
-font-family: 'tanha';
+    font-family: 'tanha';
+    background-color: rgba(88, 128, 128, 0.859);
 }
 
+
 button{
-    background-color: red;
+    font-family: 'tanha';
+    background-color: rgb(88, 244, 210);
+    
+}
+h1{
     text-align: center;
+    margin: 260px;
+    text-shadow: 20%;
 }
 
 
