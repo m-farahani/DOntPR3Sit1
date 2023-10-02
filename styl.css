@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'tanha';
+    src: url(./tanha-font-v0.9/Tanha.eot) format('eot');
+    src: url(./tanha-font-v0.9/Tanha.ttf) format('truetype');
+    src: url(./tanha-font-v0.9/Tanha.woff) format('woff2');
+    src: url(./tanha-font-v0.9/Tanha.woff2) format('woff');
+}
+
+body{
+    direction: rtl;
+font-family: 'tanha';
+}
+
+button{
+    background-color: red;
+    text-align: center;
+}
+
+
+
