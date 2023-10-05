@@ -1,19 +1,21 @@
 body{
+     position: absolute;
      direction: rtl;
      font-family: 'tanha';
-     background-color: rgba(88, 128, 128, 0.859);
+     background-color: rgba(85, 85, 85, 0.74);
 }
 
 
 button{
-    background-color: burlywood;
-    border-style: solid;
-    border-color: coral;
-    margin: 350px;
-    padding: 10px;
-    margin-left: 100px;
-
+    background-color: rgb(230, 230, 113);
+    cursor: not-allowed;
+    position: absolute;
+    right: 620px;
+    top: 220px;
 }
-h1{
+    
+
+h1{ 
+     position: relative;
      text-align: center;
 }
