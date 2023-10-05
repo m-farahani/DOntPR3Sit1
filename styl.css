@@ -1,28 +1,19 @@
-@font-face {
-    font-family: 'tanha';
-    src: url(./tanha-font-v0.9/Tanha.eot) format('eot');
-    src: url(./tanha-font-v0.9/Tanha.ttf) format('truetype');
-    src: url(./tanha-font-v0.9/Tanha.woff) format('woff2');
-    src: url(./tanha-font-v0.9/Tanha.woff2) format('woff');
-}
-
 body{
-    direction: rtl;
-    font-family: 'tanha';
-    background-color: rgba(88, 128, 128, 0.859);
+     direction: rtl;
+     font-family: 'tanha';
+     background-color: rgba(88, 128, 128, 0.859);
 }
 
 
 button{
-    font-family: 'tanha';
-    background-color: rgb(88, 244, 210);
-    
+    background-color: burlywood;
+    border-style: solid;
+    border-color: coral;
+    margin: 350px;
+    padding: 10px;
+    margin-left: 100px;
+
 }
 h1{
-    text-align: center;
-    margin: 260px;
-    text-shadow: 20%;
+     text-align: center;
 }
-
-
-
